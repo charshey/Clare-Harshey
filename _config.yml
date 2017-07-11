@@ -1,4 +1,4 @@
 name: Clare Harshey
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: hacker
+theme: jekyll-theme-hacker
