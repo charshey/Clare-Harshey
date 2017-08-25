@@ -1,5 +1,5 @@
-name: Clare Harshey
 title: Clare Harshey
+tagline: Grad student in Computational Linguistics with a passion for linguistics, NLP and problem solving.
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-dinky
