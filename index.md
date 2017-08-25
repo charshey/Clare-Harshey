@@ -11,10 +11,11 @@ I am an editor at [The LINGUIST List](https://linguistlist.org), where I edit Jo
 
 <a href="http://harshey.me/Harshey_CV.pdf" target="_blank">Click here</a> to see my CV.
 
+<a href="http://github.com/charshey" target="_blank">Click here</a> to follow me on GitHub.
 
 <a href="https://www.linkedin.com/in/clare-harshey-8973a8137" target="_blank">Click here</a> to get in touch on LinkedIn.
 
 
-[...or just send me an email!](mailto://clarshey@gmail.com)
+...or just [shoot me an email!](mailto://clarshey@gmail.com)
 
 
