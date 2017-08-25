@@ -4,11 +4,14 @@ tagline: Grad student in Computational Linguistics with a passion for linguistic
 description: Personal homepage for Clare Harshey
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+baseurl: ""
 url: "http://harshey.me"
 
 
 github_username: charshey
+email: clarshey@gmail.com
+
 favicon: "favicon.ico"
-aboutme: 
+aboutme_photo: "me.jpg"
 
 theme: jekyll-theme-dinky
