@@ -1,5 +1,6 @@
 ---
 title: Clare Harshey
+author: Clare Harshey
 ---
 # Welcome to my homepage
 
