@@ -145,10 +145,12 @@ hr {
 img {
   position: relative;
   margin: 0 auto;
-  max-width: 650px;
+  max-width: 100px;
   padding: 5px;
   margin: 10px 0 32px 0;
   border: 1px solid #ccc;
+  height: auto;
+  width: auto\9;
 }
 
 p img {
