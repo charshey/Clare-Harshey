@@ -9,7 +9,7 @@ I am a graduate student finishing up my MS in Computational Linguistics at India
 
 I am an editor at [The LINGUIST List](https://linguistlist.org), where I edit Jobs, Supports, Books and Reviews. I also work on the Yiddish Speech Corpus within the [GORILLA Project](https://gorilla.linguistlist.org/).
 
-<a href="http://harshey.me/Harshey_CV.pdf" target="_blank">Click here</a> to see my CV.
+<a href="http://harshey.me/Harshey_CV.pdf" target="_blank">Click here</a> to see my résumé.
 
 <a href="http://github.com/charshey" target="_blank">Click here</a> to follow me on GitHub.
 
