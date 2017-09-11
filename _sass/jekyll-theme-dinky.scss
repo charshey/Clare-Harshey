@@ -220,7 +220,7 @@ header {
 	background-color: #6775A9;
 	color: #FDFDFB;
   width:170px;
-  position: fixed;
+  position:fixed;
 	border: 5px solid #000;
 	-webkit-border-top-right-radius: 4px;
 	-webkit-border-bottom-right-radius: 4px;
@@ -271,6 +271,7 @@ header li {
 	margin-bottom: 12px;
 	line-height: 1em;
 	padding: 6px 6px 6px 7px;
+
 	background: #AF0011;
 	background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
@@ -345,7 +346,7 @@ footer {
   header, section, footer {
     float:none;
     position:static;
-    width:auto;
+    //width:auto;
   }
 
 	footer {
