@@ -144,13 +144,14 @@ hr {
 
 img {
   position: relative;
-  float: right;
+  float: center;
   margin: 0 auto;
-  max-width: 150px;
+  max-width: 110px;
   padding: 5px;
-  margin: 10px 0 32px 0;
+  //margin: 10px 0 32px 0;
   height: auto;
   width: auto\9;
+  border: 2px solid #000000
 }
 
 p img {
@@ -384,7 +385,9 @@ footer {
     padding:10px 20px 0;
 		margin-right: 0;
   }
-
+  img {
+	float: right;
+	}	  
 	section {
     padding:10px 0 10px 20px;
     margin:0 0 30px;
