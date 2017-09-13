@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Welcome to my new website!"
 date: 2017-07-11
 ---
