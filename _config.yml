@@ -1,6 +1,6 @@
 title: Clare Harshey
 author: Clare Harshey
-tagline: Grad student in Computational Linguistics with a passion for linguistics, NLP and problem solving.
+tagline: Computer Scientist with an educational background in Computational Linguistics and a personal passion for language, design and problem solving.
 description: Personal homepage for Clare Harshey
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
@@ -11,7 +11,7 @@ url: "http://harshey.me"
 github_username: charshey
 email: clarshey@gmail.com
 
-favicon: "favicon.ico"
+favicon: "images/favicon.png"
 aboutme_photo: "me.jpg"
 
 theme: jekyll-theme-dinky
