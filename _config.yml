@@ -1,0 +1,18 @@
+title: Clare Harshey
+author: Clare Harshey
+tagline: computer scientist with an educational background in linguistics and a personal passion for language, design and problem solving.
+description: Personal homepage for Clare Harshey
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+baseurl: ""
+url: "http://harshey.me"
+
+
+github_username: charshey
+email: clarshey@gmail.com
+
+favicon: "images/favicon.png"
+aboutme_photo: "me.jpg"
+
+theme: kippt/jekyll-incorporated
+
