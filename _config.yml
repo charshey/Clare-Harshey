@@ -14,6 +14,6 @@ email: clarshey@gmail.com
 favicon: "images/favicon.png"
 aboutme_photo: "me.jpg"
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
 
