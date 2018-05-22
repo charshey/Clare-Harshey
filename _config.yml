@@ -14,5 +14,5 @@ email: clarshey@gmail.com
 favicon: "images/favicon.png"
 aboutme_photo: "me.jpg"
 
-remote_theme: kippt/jekyll-incorporated
+theme: slate
 
