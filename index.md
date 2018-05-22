@@ -1,4 +1,4 @@
----
+-
 title: Clare Harshey
 author: Clare Harshey
 layout: default
