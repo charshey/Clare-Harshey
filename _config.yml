@@ -14,6 +14,6 @@ email: clarshey@gmail.com
 favicon: "images/favicon.png"
 aboutme_photo: "me.jpg"
 
-theme: jekyll-theme-leap-day
+theme: minimal-mistakes-jekyll
 
 
